@@ -1,4 +1,5 @@
-# memes-get
+# catpics-get
+Cat pics PWA with service worker + indexeddb.
 
 ## Project setup
 ```
